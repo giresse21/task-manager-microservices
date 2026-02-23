@@ -279,15 +279,6 @@ healthcheck:
   retries: 5
 ```
 
-## 📚 Apprentissages
-
-Ce projet a été développé pour apprendre et démontrer :
-- Architecture microservices
-- Communication inter-services
-- API Gateway pattern
-- Isolation et découplage
-- Docker et containerisation
-- Principes de scalabilité
 
 ## 👤 Auteur
 
